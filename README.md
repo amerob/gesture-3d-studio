@@ -43,8 +43,8 @@ Built with **React**, **Three.js (Fiber)**, and Google's **MediaPipe**.
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/amerob/gesture3d-studio.git
-    cd gesture3d-studio
+    git clone https://github.com/amerob/gesture-3d-studio.git
+    cd gesture-3d-studio
     ```
 
 2.  **Run a local server**
