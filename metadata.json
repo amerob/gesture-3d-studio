@@ -1,0 +1,7 @@
+{
+  "name": "Gesture3D Studio",
+  "description": "Interactive 3D viewer controlled by hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
